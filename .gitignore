@@ -1,0 +1,8 @@
+
+src/our_namespace/pytest_demo/__pycache__/
+
+src/semantrum.pytest_demo.egg-info/
+
+tests/pytest_demo/__pycache__/
+
+src/our_namespace.pytest_demo.egg-info/
